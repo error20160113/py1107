@@ -25,3 +25,46 @@ for i in sys.argv:
     print (i)
 print(sys.argv)
 print ('python 路径为',sys.path)
+
+
+# 斐波那契数列
+print('=========输出斐波那契数列========');
+a,b =0,1;
+c=0;
+while c<10:
+	print(b);
+	a,b=b,a+b;
+	c+=1;
+# 复合赋值，右边的表达式会在赋值变动前进行，顺序为从左到右
+
+
+
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
